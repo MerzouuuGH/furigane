@@ -1,0 +1,2 @@
+# furigane
+Furigana for Minecraft

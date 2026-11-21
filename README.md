@@ -9,17 +9,17 @@ You can use this packs without mods, but using Rubi or Amber (Rubi's Fork) is hi
 
 Supports:
 
-Terralith
-Sodium
-Shulkerbox Tooltip
-Reeses Sodium Options
-Nature Compass
-Mod Menu
-Lambdynlights
-JEI
-JADE
-Iris
-CarryOn
-BetterAdvencements
+- Terralith
+- Sodium
+- Shulkerbox Tooltip
+- Reeses Sodium Options
+- Nature Compass
+- Mod Menu
+- Lambdynlights
+- JEI
+- JADE
+- Iris
+- CarryOn
+- BetterAdvencements
 
 Want support for something? Create an issue!
